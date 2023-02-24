@@ -7,7 +7,7 @@ categories: research
 author: Peiyu Liu
 authors: "Ze-Feng Gao*, <strong>Peiyu Liu*<strong>, Wayne Xin Zhao, Zhong-Yi Lu, Ji-Rong Wen"
 venue: "COLING 2022, Oral Presentation, 2022"
-paper: https://zefeng-gao.com/pdfs/coling2022.pdf
+paper: https://zefeng-gao.com/pdfs/MPOE.pdf
 code: https://github.com/RUCAIBox/MPOE
 ---
 This study proposes a novel approach to reduce the parameter count of the MoE model, by using a shared central tensor among experts, resulting in a 27.2-fold reduction compared to the Switch Transformer.
