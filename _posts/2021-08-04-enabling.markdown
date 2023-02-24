@@ -5,7 +5,7 @@ date:   2021-08-04 18:04:44 +00:00
 image: images/enabling_pic.png
 categories: research
 author: Peiyu Liu
-authors: "<strong>Peiyu Liu</strong>, Ze-Feng Gao, Wayne Xin Zhao, Z.Y. Xie, Zhong-Yi Lu and Ji-Rong Wen"
+authors: "<strong>Peiyu Liu*</strong>, Ze-Feng Gao*, Wayne Xin Zhao, Z.Y. Xie, Zhong-Yi Lu and Ji-Rong Wen"
 venue: "ACL 2021 main conference"
 paper: https://aclanthology.org/2021.acl-long.418/
 slides: /pdfs/acl_liupeiyu_4113.pdf
